@@ -25,7 +25,7 @@ The general idea is for doing two types of analysis:
     cd bwa-0.7.17/
     make
     cd ..
-    echo " export PATH='~/bwa-0.7.17:$PATH' " >> .bash_profile
+    
 To add both the tools in path and apply the changes
 
     echo "export PATH='~/gatk-4.1.8.1:\$PATH' " >> .bash_profile
