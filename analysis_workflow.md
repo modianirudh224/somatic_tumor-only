@@ -36,7 +36,7 @@ To add both the tools in path and apply the changes
 Create a folder named ref to store all the references needed. We will be using gsutils to download resources from gatk cloud buckets. The resources files used are given below and if any other needed can be downloaded from the following :
 1.  [Resource files for hg38 reference genome](https://console.cloud.google.com/storage/browser/genomics-public-data/resources/broad/hg38/v0;tab=objects?pli=1&prefix=&forceOnObjectsSortingFiltering=false)
     
-2.  [Resource files for calling something mutations using hg38 as a reference](https://console.cloud.google.com/storage/browser/gatk-best-practices/somatic-hg38;tab=objects?project=broad-dsde-outreach&prefix=&forceOnObjectsSortingFiltering=false)
+2.  [Resource files for calling somatic mutations using hg38 as a reference](https://console.cloud.google.com/storage/browser/gatk-best-practices/somatic-hg38;tab=objects?project=broad-dsde-outreach&prefix=&forceOnObjectsSortingFiltering=false)
 
 To download the references we need for now:
    
