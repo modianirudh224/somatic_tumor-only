@@ -154,8 +154,8 @@ Liftover to hg19 reference if needed for any tools that require, for example, Mu
 
 >Reference file needed for this process are chain files and the reference sequence of the genome that is being liftover to. 
 >
->Chain files can be found at [http://hgdownload.soe.ucsc.edu/goldenPath/hg38/liftOver/](http://hgdownload.soe.ucsc.edu/goldenPath/hg38/liftOver/)
-> hg19 reference genome at [http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/](http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz)
+>Chain files can be found at [http://hgdownload.soe.ucsc.edu/goldenPath/hg38/liftOver/](http://hgdownload.soe.ucsc.edu/goldenPath/hg38/liftOver/).
+>hg19 reference genome at [http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/](http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz).
 
   
   
